@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="nasabah.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="809" topLine="30" />
+		</Cursor>
+		<Folding>
+			<Collapse line="3" />
+			<Collapse line="18" />
+		</Folding>
+	</File>
+	<File name="main.h" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="578" topLine="2" />
+		</Cursor>
+	</File>
+	<File name="rekening.cpp" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1570" topLine="9" />
+		</Cursor>
+		<Folding>
+			<Collapse line="3" />
+			<Collapse line="8" />
+			<Collapse line="18" />
+			<Collapse line="22" />
+		</Folding>
+	</File>
+	<File name="relation.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="512" topLine="12" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="240" topLine="489" />
+		</Cursor>
+	</File>
+	<File name="rekening.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1096" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="16" />
+			<Collapse line="24" />
+		</Folding>
+	</File>
+	<File name="nasabah.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="167" topLine="3" />
+		</Cursor>
+		<Folding>
+			<Collapse line="19" />
+			<Collapse line="26" />
+		</Folding>
+	</File>
+	<File name="relation.cpp" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1614" topLine="30" />
+		</Cursor>
+		<Folding>
+			<Collapse line="7" />
+			<Collapse line="15" />
+			<Collapse line="19" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>

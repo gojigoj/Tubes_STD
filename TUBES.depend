@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1523371324 source:e:\tugas\dokumen\telkom\materi\tingkat i\semester 2\tugas\strukdat\tubes\main.cpp
+	"main.h"
+	"rekening.h"
+	"relation.h"
+	"nasabah.h"
+
+1523367556 source:e:\tugas\dokumen\telkom\materi\tingkat i\semester 2\tugas\strukdat\tubes\rekening.cpp
+	"rekening.h"
+
+1523367556 source:e:\tugas\dokumen\telkom\materi\tingkat i\semester 2\tugas\strukdat\tubes\relation.cpp
+	"relation.h"
+
+1523367556 e:\tugas\dokumen\telkom\materi\tingkat i\semester 2\tugas\strukdat\tubes\relation.h
+	<iostream>
+	<cstdlib>
+	<string>
+	"relation.h"
+	"rekening.h"
+
+1523367556 e:\tugas\dokumen\telkom\materi\tingkat i\semester 2\tugas\strukdat\tubes\rekening.h
+	<iostream>
+	<cstdlib>
+	<string>
+
+1523367556 e:\tugas\dokumen\telkom\materi\tingkat i\semester 2\tugas\strukdat\tubes\nasabah.h
+	<iostream>
+	<cstdlib>
+	<string>
+	"relation.h"
+
+1523367556 source:e:\tugas\dokumen\telkom\materi\tingkat i\semester 2\tugas\strukdat\tubes\nasabah.cpp
+	"nasabah.h"
+
+1523367556 e:\tugas\dokumen\telkom\materi\tingkat i\semester 2\tugas\strukdat\tubes\main.h
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+	<string>
+	"rekening.h"
+	"relation.h"
+	"nasabah.h"
+
